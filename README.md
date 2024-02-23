@@ -1,0 +1,2 @@
+# Classification-of-Myocardial-Infarction-from-Multi-Lead-ECG-Signals-Using-Hybrid-Deep-Learning
+A. C. Chandra, S. S, S. G. S, R. G. A and A. J. P, "Classification of Myocardial Infarction from Multi-Lead ECG Signals Using Hybrid Deep Learning," 2023 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER), Mangalore, India, 2023, pp. 225-231, doi: 10.1109/DISCOVER58830.2023.10316699.
